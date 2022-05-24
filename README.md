@@ -19,10 +19,18 @@ Adding an ID to the ``BLACKLIST`` will prevent the bot from sending a message to
 
 ### Usage
 
-You must first run ```yarn``` or ```npm install``` in order to install all the required dependencies. 
+You must first run ``yarn`` or ``npm install`` in order to install all the required dependencies. 
 
-You can run the message script by typing into your terminal/command prompt ```yarn message``` OR ```npm run message```.
-You can run the friend removal script by typing into your terminal/command prompt ```yarn friends``` OR ```npm run friends```.
+You can run the message script by typing into your terminal/command prompt:
+```yarn message``` 
+OR 
+```npm run message```
+
+
+You can run the friend removal script by typing into your terminal/command prompt: 
+```yarn friends``` 
+OR 
+```npm run friends```
 
 
 
