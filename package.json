@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.0.0"
+  },
+  "author": {
+    "name": "Runabox",
+    "email": "runa@runa.live",
+    "url": "https://runa.live"
+  },
+  "scripts": {
+    "friends": "node friends",
+    "message": "node message"
+  }
+}

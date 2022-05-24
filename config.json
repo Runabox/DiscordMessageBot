@@ -1,0 +1,11 @@
+{
+    "TOKEN": "",
+    "MESSAGE": "",
+    "BLACKLIST": [
+        ""
+    ],
+    "TIMINGS": {
+        "relationships": 1000, 
+        "messages": 2000
+    }
+}
